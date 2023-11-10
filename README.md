@@ -39,7 +39,7 @@ Ovdje ćete naći osnovne informacije o projektu, kao i demonstraciju kako GitHu
 Za više informacija o Gitu i GitHubu, posjetite GitHub Docs.
 
 ## Pogledajte našu stranicu!
-Projekt je živ i dostupan za pregled na: VašeKorisničkoIme.github.io/hello-world
+Projekt je živ i dostupan za pregled na: tbrkic.github.io/hello-world
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 
