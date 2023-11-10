@@ -21,7 +21,7 @@ Ovdje će biti upute vezane za objavu sadržaja na GitHub repozitoriju
 [Poveznica na test.md datoteku](https://github.com/tbrkic/hello-world/blob/gh-pages/test.md)
 
 
-
+# [GitHub Pages stranica](https://tbrkic.github.io/hello-world/)
 
 
 
