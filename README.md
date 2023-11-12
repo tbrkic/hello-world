@@ -44,7 +44,7 @@ Projekt je živ i dostupan za pregled na: tbrkic.github.io/hello-world
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 
 
-
+[Ako Vam je danas rođendan, kliknite ovo](https://youtu.be/NqpvKQSpNs0)
 
 
 
